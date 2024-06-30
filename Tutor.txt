@@ -1,0 +1,14 @@
+# Inisialisasi Git di project Laravel Anda
+git init
+
+# Tambahkan semua file ke staging area
+git add .
+
+# Buat commit pertama Anda
+git commit -m "Initial commit"
+
+# Tambahkan remote repository
+git remote add origin https://github.com/tatsuyaz/bbkk-mina.git
+
+# Push project ke GitHub
+git push -u origin master
